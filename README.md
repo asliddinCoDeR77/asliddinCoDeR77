@@ -14,9 +14,7 @@
 
 💬 Ask me about ***Flutter, Dart, Firebase***
 
-⚡ Fun fact **Lorem ipsum dolor sit amet, consectetur adipiscing elit.**
 
-  **Maecenas vitae nulla eu mi condimentum venenatis. Nulla facilisi.**
 
  </div>
  
